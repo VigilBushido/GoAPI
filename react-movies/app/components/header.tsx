@@ -1,4 +1,4 @@
-import cone from "app/components/cone.png";
+import cone from "app/images/cone.png";
 
 export function Header() {
     return (
