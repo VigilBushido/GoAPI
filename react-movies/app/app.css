@@ -13,3 +13,10 @@ body {
     color-scheme: dark;
   }
 }
+h1.increase {
+  font-size: 39px;
+}
+.cone {
+  width: 20%;
+  height: auto;
+}
