@@ -5,6 +5,7 @@ export default [
     route("about", "routes/about.tsx"),
     route("actors", "routes/actors.tsx"),
     route("movies", "routes/movies.tsx"),
+    route("genres", "routes/genres.tsx"),
 
     layout("routes/auth/layout.tsx", [
         route("login", "routes/auth/login.tsx"),
